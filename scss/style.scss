@@ -62,7 +62,7 @@ a {
 	background: $brand-primary;
 	padding-top: 30px;
 	z-index: 1;
-	@include gradient($brand-secondary, $brand-primary);
+	/*@include gradient($brand-secondary, $brand-primary);*/
 	&.probootstrap-header-no-intro {
 		padding-bottom: 30px;
 	}
