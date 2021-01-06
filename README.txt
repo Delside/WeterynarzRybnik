@@ -1,6 +1,6 @@
-THEME: Sublime - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+Version 1.0
+
+Weterynarz Rybnik website
 
 
 CREDITS:
