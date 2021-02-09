@@ -90,12 +90,7 @@ a:hover, a:focus, a:active {
   /*background: #6078EA;*/
   padding-top: 30px;
   z-index: 1;
-  background-color: #17EAD9;
-  /*background: #17ead9;
-  background: -webkit-gradient(left top, right top, color-stop(0%, #17ead9), color-stop(100%, #6078ea));
-  background: -webkit-gradient(linear, left top, right top, from(#17ead9), to(#6078ea));
-  background: linear-gradient(to right, #17ead9 0%, #6078ea 100%);*/
-  /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$firstcolor, endColorstr=$secondcolor, GradientType=1 );*/
+  background-image:url(WeterynarzRybnikTlo.webp)
 }
 
 .probootstrap-header.probootstrap-header-no-intro {
