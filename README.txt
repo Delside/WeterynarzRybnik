@@ -1,51 +1,15 @@
-Version 1.0
+# Weterynarz Rybnik - simple website
 
-Weterynarz Rybnik website
+## Table of Contents
 
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
 
-CREDITS:
+### About project
+[Weterynarz Rybnik](https://weterynarzrybnik.pl/) is one page site, based on Template "Sublime", containing all necessary informations about Gabinet weterynaryjny DINO. Development process was described in my BA dissertation.
 
-Bootstrap
-http://getbootstrap.com/
+### Build With
+* Bootstrap
+* Template "Sublime" by [uicookies.io](https://uicookies.com/)
+* IcoMoon
 
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-HTML5Shiv
-https://github.com/aFarkas/html5shiv
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Owl Carousel
-https://owlcarousel2.github.io/OwlCarousel2/
-
-FlexSlider
-http://flexslider.woothemes.com
-
-Demo Images
-https://unsplash.com
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-CountTo
-https://github.com/mhuggins/jquery-countTo
